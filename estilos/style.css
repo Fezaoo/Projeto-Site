@@ -9,8 +9,29 @@ body {
 
 main {
     background-color: white;
-    width: 500px;
+    width: 600px;
     margin: auto; 
     padding: 10px;
     box-shadow: 3px 3px 5px black;
+}
+
+
+h1 {
+    font-size: 1.5em;
+    color: aqua;
+}
+
+img.lado {
+    float: right;
+}
+
+a {
+    text-decoration: none;
+    font-weight: bold;
+    color: blue;
+}
+
+a:hover {
+    text-decoration: underline;
+    color: blue;
 }
